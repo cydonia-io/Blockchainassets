@@ -1,2 +1,4 @@
 asn1crypto==1.2.0
-
+pandas==0.25.3
+matplotlib==3.1.2
+pandas==0.25.3
